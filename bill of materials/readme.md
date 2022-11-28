@@ -17,3 +17,4 @@
 |12|Drukknop|Zet het karretje aan/uit|recup|€0,00|1|€0,00|
 |13|Led|Geeft aan of de voeding aan staat|recup|€0,00|1|€0,00|
 |14|Bouten|Houdt de onderdelen op zijn plaats|recup|€0,00|10|€0,00|
+| | | | | |Totaal |€71,10 |
