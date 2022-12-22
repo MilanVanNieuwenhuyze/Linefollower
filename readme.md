@@ -12,19 +12,19 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
 <br />
 microcontroller: Arduino UNO
 <br />
-motors: 
+motors: DC 50:1 gearmotor
 <br />
-h-bridge:
+h-bridge: DRV8835
 <br />
-sensors:
+sensors: QTR-8A
 <br />
-batteries:
+batteries: 2x Lithium batterijen 3.7V 3200 mAh
 <br />
-wireless communication:
+wireless communication: HC-05
 <br />
-distance sensor - motors:
+distance sensor - motors: 8.6 cm
 <br />
 weight:
 <br />
-speed: 
+speed: 0.546 m/s
 <br />
